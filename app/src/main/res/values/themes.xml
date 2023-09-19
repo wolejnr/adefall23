@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.AdeFall23" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.AdeFall23" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">@color/my_primary</item>
+
+        <item name="colorSecondary">@color/my_secondary</item>
+
+        <item name="android:statusBarColor">@color/my_statusbar</item>
     </style>
 
     <style name="Theme.AdeFall23" parent="Base.Theme.AdeFall23" />
