@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AdeFall23</string>
+    <string name="hello_message">Hello World!</string>
 </resources>
